@@ -1,0 +1,368 @@
+For combination :
+ noise=mean 0,001148363 variance 0,0003144327 standard deviation 0,01773225;
+ Colorfulness=-0,05244973;
+ Contrast=0,0008131257;
+ Sharpness=0,000279835
+
+
+Spawn Count: 10
+Average FPS: 250,2212
+Batch Count: 51
+
+Spawn Count: 60
+Average FPS: 229,9558
+Batch Count: 251
+
+Spawn Count: 160
+Average FPS: 199,9191
+Batch Count: 651
+
+Spawn Count: 360
+Average FPS: 154,1258
+Batch Count: 1451
+
+For combination Lanczos pixelization :
+ noise=mean 0,001229047 variance 0,0003130213 standard deviation 0,01769241;
+ Colorfulness=-0,05254304;
+ Contrast=0,001014186;
+ Sharpness=0,000344763
+
+
+Spawn Count: 10
+Average FPS: 130,1096
+Batch Count: 51
+
+Spawn Count: 60
+Average FPS: 122,4711
+Batch Count: 251
+
+Spawn Count: 160
+Average FPS: 111,3998
+Batch Count: 651
+
+Spawn Count: 360
+Average FPS: 100,0121
+Batch Count: 1451
+
+For combination Selective outlining pixelization :
+ noise=mean 0,001228985 variance 0,0003129818 standard deviation 0,01769129;
+ Colorfulness=-0,05253872;
+ Contrast=0,001014276;
+ Sharpness=0,0003448165
+
+
+Spawn Count: 10
+Average FPS: 127,724
+Batch Count: 51
+
+Spawn Count: 60
+Average FPS: 120,1264
+Batch Count: 251
+
+Spawn Count: 160
+Average FPS: 113,512
+Batch Count: 651
+
+Spawn Count: 360
+Average FPS: 98,01513
+Batch Count: 1451
+
+For combination Lanczos pixelization Selective outlining pixelization :
+ noise=mean 0,001228985 variance 0,0003129818 standard deviation 0,01769129;
+ Colorfulness=-0,05253872;
+ Contrast=0,001014276;
+ Sharpness=0,0003448165
+
+
+Spawn Count: 10
+Average FPS: 115,2438
+Batch Count: 69
+
+Spawn Count: 60
+Average FPS: 109,9226
+Batch Count: 319
+
+Spawn Count: 160
+Average FPS: 100,5027
+Batch Count: 819
+
+Spawn Count: 360
+Average FPS: 87,65878
+Batch Count: 1819
+
+For combination General Outlining :
+ noise=mean 0,001228985 variance 0,0003129818 standard deviation 0,01769129;
+ Colorfulness=-0,05253872;
+ Contrast=0,001014276;
+ Sharpness=0,0003448165
+
+
+Spawn Count: 10
+Average FPS: 112,4356
+Batch Count: 69
+
+Spawn Count: 60
+Average FPS: 109,7331
+Batch Count: 319
+
+Spawn Count: 160
+Average FPS: 101,9399
+Batch Count: 819
+
+Spawn Count: 360
+Average FPS: 87,80898
+Batch Count: 1819
+
+For combination Lanczos pixelization General Outlining :
+ noise=mean 0,001228985 variance 0,0003129818 standard deviation 0,01769129;
+ Colorfulness=-0,05253872;
+ Contrast=0,001014276;
+ Sharpness=0,0003448165
+
+
+Spawn Count: 10
+Average FPS: 119,7292
+Batch Count: 52
+
+Spawn Count: 60
+Average FPS: 117,4549
+Batch Count: 252
+
+Spawn Count: 160
+Average FPS: 111,7385
+Batch Count: 652
+
+Spawn Count: 360
+Average FPS: 97,7474
+Batch Count: 1452
+
+For combination Selective outlining pixelization General Outlining :
+ noise=mean 0,001228985 variance 0,0003129818 standard deviation 0,01769129;
+ Colorfulness=-0,05253872;
+ Contrast=0,001014276;
+ Sharpness=0,0003448165
+
+
+Spawn Count: 10
+Average FPS: 120,3546
+Batch Count: 52
+
+Spawn Count: 60
+Average FPS: 117,1989
+Batch Count: 252
+
+Spawn Count: 160
+Average FPS: 109,5009
+Batch Count: 652
+
+Spawn Count: 360
+Average FPS: 98,40562
+Batch Count: 1452
+
+For combination Lanczos pixelization Selective outlining pixelization General Outlining :
+ noise=mean 0,001228985 variance 0,0003129818 standard deviation 0,01769129;
+ Colorfulness=-0,05253872;
+ Contrast=0,001014276;
+ Sharpness=0,0003448165
+
+
+Spawn Count: 10
+Average FPS: 110,8198
+Batch Count: 70
+
+Spawn Count: 60
+Average FPS: 106,6173
+Batch Count: 320
+
+Spawn Count: 160
+Average FPS: 100,0255
+Batch Count: 820
+
+Spawn Count: 360
+Average FPS: 85,85019
+Batch Count: 1820
+
+For combination Pallete and dithering :
+ noise=mean 0,001228985 variance 0,0003129818 standard deviation 0,01769129;
+ Colorfulness=-0,05253872;
+ Contrast=0,001014276;
+ Sharpness=0,0003448165
+
+
+Spawn Count: 10
+Average FPS: 111,0907
+Batch Count: 70
+
+Spawn Count: 60
+Average FPS: 106,8578
+Batch Count: 320
+
+Spawn Count: 160
+Average FPS: 99,4504
+Batch Count: 820
+
+Spawn Count: 360
+Average FPS: 87,69884
+Batch Count: 1820
+
+For combination Lanczos pixelization Pallete and dithering :
+ noise=mean 0,03550705 variance 0,004001285 standard deviation 0,06325571;
+ Colorfulness=0,01829571;
+ Contrast=0,09203967;
+ Sharpness=0,0288132
+
+
+Spawn Count: 10
+Average FPS: 112,5164
+Batch Count: 52
+
+Spawn Count: 60
+Average FPS: 109,1417
+Batch Count: 252
+
+Spawn Count: 160
+Average FPS: 102,3112
+Batch Count: 652
+
+Spawn Count: 360
+Average FPS: 91,43402
+Batch Count: 1452
+
+For combination Selective outlining pixelization Pallete and dithering :
+ noise=mean 0,03550705 variance 0,004001285 standard deviation 0,06325571;
+ Colorfulness=0,01829571;
+ Contrast=0,09203967;
+ Sharpness=0,0288132
+
+
+Spawn Count: 10
+Average FPS: 111,5826
+Batch Count: 52
+
+Spawn Count: 60
+Average FPS: 106,9997
+Batch Count: 252
+
+Spawn Count: 160
+Average FPS: 103,3159
+Batch Count: 652
+
+Spawn Count: 360
+Average FPS: 91,40675
+Batch Count: 1452
+
+For combination Lanczos pixelization Selective outlining pixelization Pallete and dithering :
+ noise=mean 0,03550705 variance 0,004001285 standard deviation 0,06325571;
+ Colorfulness=0,01829571;
+ Contrast=0,09203967;
+ Sharpness=0,0288132
+
+
+Spawn Count: 10
+Average FPS: 101,9808
+Batch Count: 70
+
+Spawn Count: 60
+Average FPS: 98,9513
+Batch Count: 320
+
+Spawn Count: 160
+Average FPS: 94,3701
+Batch Count: 820
+
+Spawn Count: 360
+Average FPS: 82,20683
+Batch Count: 1820
+
+For combination General Outlining Pallete and dithering :
+ noise=mean 0,03550705 variance 0,004001285 standard deviation 0,06325571;
+ Colorfulness=0,01829571;
+ Contrast=0,09203967;
+ Sharpness=0,0288132
+
+
+Spawn Count: 10
+Average FPS: 103,2299
+Batch Count: 70
+
+Spawn Count: 60
+Average FPS: 100,6635
+Batch Count: 320
+
+Spawn Count: 160
+Average FPS: 94,14234
+Batch Count: 820
+
+Spawn Count: 360
+Average FPS: 81,36095
+Batch Count: 1820
+
+For combination Lanczos pixelization General Outlining Pallete and dithering :
+ noise=mean 0,03550705 variance 0,004001285 standard deviation 0,06325571;
+ Colorfulness=0,01829571;
+ Contrast=0,09203967;
+ Sharpness=0,0288132
+
+
+Spawn Count: 10
+Average FPS: 107,3315
+Batch Count: 53
+
+Spawn Count: 60
+Average FPS: 106,3913
+Batch Count: 253
+
+Spawn Count: 160
+Average FPS: 100,2714
+Batch Count: 653
+
+Spawn Count: 360
+Average FPS: 87,28323
+Batch Count: 1453
+
+For combination Selective outlining pixelization General Outlining Pallete and dithering :
+ noise=mean 0,03550705 variance 0,004001285 standard deviation 0,06325571;
+ Colorfulness=0,01829571;
+ Contrast=0,09203967;
+ Sharpness=0,0288132
+
+
+Spawn Count: 10
+Average FPS: 109,7414
+Batch Count: 53
+
+Spawn Count: 60
+Average FPS: 104,8836
+Batch Count: 253
+
+Spawn Count: 160
+Average FPS: 98,31852
+Batch Count: 653
+
+Spawn Count: 360
+Average FPS: 85,71985
+Batch Count: 1453
+
+For combination Lanczos pixelization Selective outlining pixelization General Outlining Pallete and dithering :
+ noise=mean 0,03550705 variance 0,004001285 standard deviation 0,06325571;
+ Colorfulness=0,01829571;
+ Contrast=0,09203967;
+ Sharpness=0,0288132
+
+
+Spawn Count: 10
+Average FPS: 98,38158
+Batch Count: 71
+
+Spawn Count: 60
+Average FPS: 95,34348
+Batch Count: 321
+
+Spawn Count: 160
+Average FPS: 86,09801
+Batch Count: 821
+
+Spawn Count: 360
+Average FPS: 77,43547
+Batch Count: 1821
+

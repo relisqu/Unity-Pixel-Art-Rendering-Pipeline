@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PixelColoring
+  m_Shader: {fileID: 4800000, guid: c95bb90f0de64ec1964bd9f55dead631, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords:
+  - _PERSPECTIVECORRECTION_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _DitherTex:
+        m_Texture: {fileID: 2800000, guid: eb905c07651da984a884ae8cee140128, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DitherTex1:
+        m_Texture: {fileID: 2800000, guid: eb905c07651da984a884ae8cee140128, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DitherTex2:
+        m_Texture: {fileID: 2800000, guid: 4764443afe6c04f40ae011d50f204946, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DitherTex3:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _DepthThreshold: 0.04
+    - _DitherAmount: 0.0399
+    - _DitherScale: 62.85
+    - _NormalThreshold: 0.04
+    - _PerspectiveCorrection: 1
+    - _PixelPalletCount: 64
+    - _PixelSize: 8
+    - _Scale: 1
+    m_Colors:
+    - _OutlineColor: {r: 0.19999996, g: 0.19999996, b: 0.9, a: 1}
+    - _Resolution: {r: 1920, g: 1080, b: 0, a: 0}
+  m_BuildTextureStacks: []

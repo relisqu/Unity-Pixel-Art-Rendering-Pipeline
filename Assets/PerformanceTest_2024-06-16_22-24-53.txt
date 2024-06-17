@@ -1,0 +1,42 @@
+For combination :
+ noise=mean 0,03564261 variance 0,003955042 standard deviation 0,06288912;
+ Colorfulness=0,09237302;
+ Contrast=0,09315734;
+ Sharpness=0,02918811
+
+
+Spawn Count: 10
+Average FPS: 81,64176
+Batch Count: 53
+
+Spawn Count: 60
+Average FPS: 79,58783
+Batch Count: 253
+
+Spawn Count: 160
+Average FPS: 71,36805
+Batch Count: 653
+
+Spawn Count: 360
+Average FPS: 68,51729
+Batch Count: 1453
+
+For combination Lanczos pixelization :
+ noise=mean 0,001286299 variance 0,0002633428 standard deviation 0,01622784;
+ Colorfulness=0,0853059;
+ Contrast=0,001838508;
+ Sharpness=0,0006179509
+
+
+Spawn Count: 10
+Average FPS: 96,84998
+Batch Count: 37
+
+Spawn Count: 60
+Average FPS: 85,03482
+Batch Count: 187
+
+Spawn Count: 160
+Average FPS: 77,89815
+Batch Count: 487
+

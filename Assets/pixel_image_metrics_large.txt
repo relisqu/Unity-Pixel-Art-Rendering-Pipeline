@@ -1,0 +1,352 @@
+For combination :
+ noise=mean 0,006822577 variance 0,002331832 standard deviation 0,04828904;
+ Colorfulness=0,2890387;
+ Contrast=0,01923398;
+ Sharpness=0,007019897
+
+
+Spawn Count: 0
+Average FPS: 131,9065
+Batch Count: 432
+
+For combination Simple pixelization :
+ noise=mean 0,006348309 variance 0,001592323 standard deviation 0,03990392;
+ Colorfulness=0,286714;
+ Contrast=0,01675173;
+ Sharpness=0,005621953
+
+
+Spawn Count: 0
+Average FPS: 163,7554
+Batch Count: 432
+
+For combination Lanczos pixelization :
+ noise=mean 0,006305101 variance 0,001587607 standard deviation 0,03984478;
+ Colorfulness=0,2873705;
+ Contrast=0,01664578;
+ Sharpness=0,005584103
+
+
+Spawn Count: 0
+Average FPS: 156,9584
+Batch Count: 432
+
+For combination Simple pixelization Lanczos pixelization :
+ noise=mean 0,006348309 variance 0,001592323 standard deviation 0,03990392;
+ Colorfulness=0,286714;
+ Contrast=0,01675173;
+ Sharpness=0,005621953
+
+
+Spawn Count: 0
+Average FPS: 164,8602
+Batch Count: 433
+
+For combination Selective outlining pixelization :
+ noise=mean 0,007820021 variance 0,002580333 standard deviation 0,05079697;
+ Colorfulness=0,2846857;
+ Contrast=0,02218835;
+ Sharpness=0,007987974
+
+
+Spawn Count: 0
+Average FPS: 160,3966
+Batch Count: 445
+
+For combination Simple pixelization Selective outlining pixelization :
+ noise=mean 0,007128647 variance 0,001796795 standard deviation 0,04238862;
+ Colorfulness=0,2815221;
+ Contrast=0,01904975;
+ Sharpness=0,006392202
+
+
+Spawn Count: 0
+Average FPS: 154,3752
+Batch Count: 446
+
+For combination Lanczos pixelization Selective outlining pixelization :
+ noise=mean 0,007222892 variance 0,001831323 standard deviation 0,04279396;
+ Colorfulness=0,283861;
+ Contrast=0,01934703;
+ Sharpness=0,006486611
+
+
+Spawn Count: 0
+Average FPS: 147,6155
+Batch Count: 446
+
+For combination Simple pixelization Lanczos pixelization Selective outlining pixelization :
+ noise=mean 0,007128647 variance 0,001796795 standard deviation 0,04238862;
+ Colorfulness=0,2815221;
+ Contrast=0,01904975;
+ Sharpness=0,006392202
+
+
+Spawn Count: 0
+Average FPS: 155,8169
+Batch Count: 447
+
+For combination General Outlining :
+ noise=mean 0,009647844 variance 0,002780216 standard deviation 0,05272775;
+ Colorfulness=0,2785242;
+ Contrast=0,02749506;
+ Sharpness=0,00952924
+
+
+Spawn Count: 0
+Average FPS: 160,5206
+Batch Count: 432
+
+For combination Simple pixelization General Outlining :
+ noise=mean 0,008048867 variance 0,001922064 standard deviation 0,04384135;
+ Colorfulness=0,2728086;
+ Contrast=0,02182953;
+ Sharpness=0,007295296
+
+
+Spawn Count: 0
+Average FPS: 164,571
+Batch Count: 433
+
+For combination Lanczos pixelization General Outlining :
+ noise=mean 0,008552219 variance 0,002027575 standard deviation 0,0450286;
+ Colorfulness=0,2758448;
+ Contrast=0,02332568;
+ Sharpness=0,007788821
+
+
+Spawn Count: 0
+Average FPS: 163,8941
+Batch Count: 433
+
+For combination Simple pixelization Lanczos pixelization General Outlining :
+ noise=mean 0,008048867 variance 0,001922064 standard deviation 0,04384135;
+ Colorfulness=0,2728086;
+ Contrast=0,02182953;
+ Sharpness=0,007295296
+
+
+Spawn Count: 0
+Average FPS: 163,0169
+Batch Count: 434
+
+For combination Selective outlining pixelization General Outlining :
+ noise=mean 0,009814074 variance 0,002813054 standard deviation 0,05303823;
+ Colorfulness=0,2784365;
+ Contrast=0,02798514;
+ Sharpness=0,009692371
+
+
+Spawn Count: 0
+Average FPS: 158,8171
+Batch Count: 446
+
+For combination Simple pixelization Selective outlining pixelization General Outlining :
+ noise=mean 0,008190553 variance 0,001950454 standard deviation 0,04416394;
+ Colorfulness=0,2727512;
+ Contrast=0,02224913;
+ Sharpness=0,00743663
+
+
+Spawn Count: 0
+Average FPS: 156,6331
+Batch Count: 447
+
+For combination Lanczos pixelization Selective outlining pixelization General Outlining :
+ noise=mean 0,008705377 variance 0,002067214 standard deviation 0,04546663;
+ Colorfulness=0,2758995;
+ Contrast=0,0237789;
+ Sharpness=0,007941524
+
+
+Spawn Count: 0
+Average FPS: 161,3906
+Batch Count: 447
+
+For combination Simple pixelization Lanczos pixelization Selective outlining pixelization General Outlining :
+ noise=mean 0,008190553 variance 0,001950454 standard deviation 0,04416394;
+ Colorfulness=0,2727512;
+ Contrast=0,02224913;
+ Sharpness=0,00743663
+
+
+Spawn Count: 0
+Average FPS: 145,7045
+Batch Count: 448
+
+For combination Pallete and dithering :
+ noise=mean 0,01362048 variance 0,003512783 standard deviation 0,05926874;
+ Colorfulness=0,2492409;
+ Contrast=0,03701036;
+ Sharpness=0,01312349
+
+
+Spawn Count: 0
+Average FPS: 144,3068
+Batch Count: 432
+
+For combination Simple pixelization Pallete and dithering :
+ noise=mean 0,01216693 variance 0,00243106 standard deviation 0,04930579;
+ Colorfulness=0,247112;
+ Contrast=0,03355863;
+ Sharpness=0,01115543
+
+
+Spawn Count: 0
+Average FPS: 138,9171
+Batch Count: 433
+
+For combination Lanczos pixelization Pallete and dithering :
+ noise=mean 0,01192661 variance 0,002409938 standard deviation 0,04909112;
+ Colorfulness=0,2479553;
+ Contrast=0,03287649;
+ Sharpness=0,01092735
+
+
+Spawn Count: 0
+Average FPS: 152,817
+Batch Count: 433
+
+For combination Simple pixelization Lanczos pixelization Pallete and dithering :
+ noise=mean 0,01216693 variance 0,00243106 standard deviation 0,04930579;
+ Colorfulness=0,247112;
+ Contrast=0,03355863;
+ Sharpness=0,01115543
+
+
+Spawn Count: 0
+Average FPS: 151,8043
+Batch Count: 434
+
+For combination Selective outlining pixelization Pallete and dithering :
+ noise=mean 0,01446084 variance 0,003727105 standard deviation 0,06105002;
+ Colorfulness=0,2464737;
+ Contrast=0,03955615;
+ Sharpness=0,01395292
+
+
+Spawn Count: 0
+Average FPS: 139,5167
+Batch Count: 446
+
+For combination Simple pixelization Selective outlining pixelization Pallete and dithering :
+ noise=mean 0,01287332 variance 0,002626792 standard deviation 0,05125224;
+ Colorfulness=0,2436236;
+ Contrast=0,03563983;
+ Sharpness=0,01185393
+
+
+Spawn Count: 0
+Average FPS: 131,5753
+Batch Count: 447
+
+For combination Lanczos pixelization Selective outlining pixelization Pallete and dithering :
+ noise=mean 0,01275783 variance 0,002644123 standard deviation 0,05142104;
+ Colorfulness=0,2457025;
+ Contrast=0,03532413;
+ Sharpness=0,01174708
+
+
+Spawn Count: 0
+Average FPS: 168,4193
+Batch Count: 447
+
+For combination Simple pixelization Lanczos pixelization Selective outlining pixelization Pallete and dithering :
+ noise=mean 0,01287332 variance 0,002626792 standard deviation 0,05125224;
+ Colorfulness=0,2436236;
+ Contrast=0,03563983;
+ Sharpness=0,01185393
+
+
+Spawn Count: 0
+Average FPS: 156,0384
+Batch Count: 448
+
+For combination General Outlining Pallete and dithering :
+ noise=mean 0,01596591 variance 0,003918932 standard deviation 0,06260137;
+ Colorfulness=0,2407169;
+ Contrast=0,04432468;
+ Sharpness=0,0152634
+
+
+Spawn Count: 0
+Average FPS: 174,4296
+Batch Count: 433
+
+For combination Simple pixelization General Outlining Pallete and dithering :
+ noise=mean 0,01376125 variance 0,002654538 standard deviation 0,05152221;
+ Colorfulness=0,236202;
+ Contrast=0,03835623;
+ Sharpness=0,01273044
+
+
+Spawn Count: 0
+Average FPS: 155,907
+Batch Count: 434
+
+For combination Lanczos pixelization General Outlining Pallete and dithering :
+ noise=mean 0,01401817 variance 0,002730348 standard deviation 0,05225273;
+ Colorfulness=0,2402098;
+ Contrast=0,03912485;
+ Sharpness=0,01298429
+
+
+Spawn Count: 0
+Average FPS: 170,5285
+Batch Count: 434
+
+For combination Simple pixelization Lanczos pixelization General Outlining Pallete and dithering :
+ noise=mean 0,01376125 variance 0,002654538 standard deviation 0,05152221;
+ Colorfulness=0,236202;
+ Contrast=0,03835623;
+ Sharpness=0,01273044
+
+
+Spawn Count: 0
+Average FPS: 155,702
+Batch Count: 435
+
+For combination Selective outlining pixelization General Outlining Pallete and dithering :
+ noise=mean 0,01605949 variance 0,003930398 standard deviation 0,06269289;
+ Colorfulness=0,2406568;
+ Contrast=0,04460606;
+ Sharpness=0,0153569
+
+
+Spawn Count: 0
+Average FPS: 141,7784
+Batch Count: 447
+
+For combination Simple pixelization Selective outlining pixelization General Outlining Pallete and dithering :
+ noise=mean 0,0138382 variance 0,002662167 standard deviation 0,05159619;
+ Colorfulness=0,2359384;
+ Contrast=0,03858548;
+ Sharpness=0,01280803
+
+
+Spawn Count: 0
+Average FPS: 127,7977
+Batch Count: 448
+
+For combination Lanczos pixelization Selective outlining pixelization General Outlining Pallete and dithering :
+ noise=mean 0,01410141 variance 0,002741867 standard deviation 0,05236284;
+ Colorfulness=0,2402619;
+ Contrast=0,03937069;
+ Sharpness=0,01306743
+
+
+Spawn Count: 0
+Average FPS: 146,2201
+Batch Count: 448
+
+For combination Simple pixelization Lanczos pixelization Selective outlining pixelization General Outlining Pallete and dithering :
+ noise=mean 0,0138382 variance 0,002662167 standard deviation 0,05159619;
+ Colorfulness=0,2359384;
+ Contrast=0,03858548;
+ Sharpness=0,01280803
+
+
+Spawn Count: 0
+Average FPS: 148,5923
+Batch Count: 449
+

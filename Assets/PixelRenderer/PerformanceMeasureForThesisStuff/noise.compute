@@ -1,0 +1,38 @@
+﻿// NoiseCompute.compute
+#pragma kernel CSMain
+
+RWTexture2D<float4> Result;
+Texture2D<float4> Input;
+
+
+
+[numthreads(8, 8, 1)]
+void CSMain (uint3 id : SV_DispatchThreadID) {
+    uint width, height;
+    Result.GetDimensions(width, height);
+    
+    float4 color = Input[id.xy];
+    float intensity = dot(color.rgb, float3(0.2126, 0.7152, 0.0722));
+    float Laplacian[9] = {
+        0,  1,  0,
+        1, -4,  1,
+        0,  1,  0
+    };
+    float laplacianResponse = 0;
+    int index = 0;
+
+    // Loop over the 3x3 neighborhood
+    for (int y = -1; y <= 1; y++) {
+        for (int x = -1; x <= 1; x++) {
+            int2 neighbor = id.xy + int2(x, y);
+            if (neighbor.x >= 0 && neighbor.y >= 0 && neighbor.x < width && neighbor.y < height) {
+                float4 neighborColor = Input[neighbor];
+                float neighborIntensity = dot(neighborColor.rgb, float3(0.2126, 0.7152, 0.0722));
+                laplacianResponse += neighborIntensity * Laplacian[index];
+            }
+            index++;
+        }
+    }
+    laplacianResponse = abs(laplacianResponse);
+    Result[id.xy] = float4(laplacianResponse, laplacianResponse, laplacianResponse, 1.0);
+}
