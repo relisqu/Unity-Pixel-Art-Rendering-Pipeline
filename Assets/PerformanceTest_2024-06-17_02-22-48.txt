@@ -1,7 +1,0 @@
-For combination :
- noise=mean 7,045309E-07 variance 2,282509E-10 standard deviation 1,510797E-05;
- Colorfulness=0,0001137623;
- Contrast=1,028478E-06;
- Sharpness=4,703005E-07
-
-
